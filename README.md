@@ -32,3 +32,11 @@ Excute the command in the terminal/cmd :
 <br>
 
 After completing the form, the data will be saved in csv format in the booking directory
+
+<h2>Disclaimer</h2>
+
+<p>Data fetched from booking is only for personal use, you are not allowed to copy and paste content from Booking.com on to your own or third party pages (including social media pages such as Facebook, Twitter, Instagram etc.).</p>
+
+<p>This applies to all types of content that can be found on Booking.com pages, including but not limited to hotel descriptions, reviews, hotel and room photos, hotel facility information, and prices. Moreover, this restriction also applies to content from Booking.com partner hotel websites and Booking Holdings Group company brands: such as Agoda, Priceline, Kayak, OpenTable, Rentalcars.</p>
+
+<p>Clause 4.1.5 from Booking.com Affiliate Agreement: The Affiliate shall not programmatically evaluate and extract information (including guest reviews) from any part of the Booking.com Website (e.g. screen scrape).</p>
