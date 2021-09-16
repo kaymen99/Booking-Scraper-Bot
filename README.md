@@ -1,5 +1,5 @@
 # Booking-Scraper-Bot
-![Capture d’écran 2021-09-16 à 22 52 04](https://user-images.githubusercontent.com/83681204/133690670-c918c3f5-41ef-450d-8624-57b2faf4e25c.png)
+![booking_scraper](https://user-images.githubusercontent.com/83681204/133691432-d251dff9-4dbb-46c0-b1d4-73abd224ca77.jpg)
 
 <hr>
 <br>
