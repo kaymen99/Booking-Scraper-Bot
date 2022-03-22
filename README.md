@@ -28,7 +28,7 @@ clone this repo:
    ```
 <br>
 Install dependecies in your terminal/cmd: 
-```sh
+  ```sh
    pip install requirements.txt
    ```
 
