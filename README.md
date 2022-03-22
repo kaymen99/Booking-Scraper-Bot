@@ -26,13 +26,11 @@ clone this repo:
   ```sh
    git clone https://github.com/Aymen1001/Booking-Scraper-Bot.git
    ```
-<br>
+
 Install dependecies in your terminal/cmd: 
   ```sh
    pip install requirements.txt
    ```
-
-<br>
 
 Excute the command in the terminal/cmd : 
   ```sh
