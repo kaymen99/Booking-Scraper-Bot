@@ -24,7 +24,7 @@ To use the web app you need to :
 
 clone this repo:
   ```sh
-   git clone 
+   git clone https://github.com/Aymen1001/Booking-Scraper-Bot.git
    ```
 <br>
 Install dependecies in your terminal/cmd: 
@@ -36,7 +36,7 @@ Install dependecies in your terminal/cmd:
 
 Excute the command in the terminal/cmd : 
   ```sh
-   cd booking
+   cd Booking-Scraper-Bot/booking
    python app.py
    ```
 
