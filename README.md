@@ -21,13 +21,24 @@ Booking scraper is a simple web application/bot that can run on your computer, i
 </ul>
 <br>
 To use the web app you need to :
+
+clone this repo:
+  ```sh
+   git clone 
+   ```
 <br>
-Install dependecies in your terminal/cmd: <h3>pip install requirements.txt</h3>
+Install dependecies in your terminal/cmd: 
+```sh
+   pip install requirements.txt
+   ```
+
 <br>
 
 Excute the command in the terminal/cmd : 
-<h3>cd booking</h3>
-<h3>python app.py</h3>
+  ```sh
+   cd booking
+   python app.py
+   ```
 
 <br>
 
